@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F73DBDF5DFAD855D11F5431B4C54C6CE69164DA5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "827E1BC4561ED4CD2796542FABA243DDE493114B" : 0,
+    "F73DBDF5DFAD855D11F5431B4C54C6CE69164DA5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E6AA8A7D-7C99-4406-B078-A0DD6200297C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "827E1BC4561ED4CD2796542FABA243DDE493114B" : "",
+    "F73DBDF5DFAD855D11F5431B4C54C6CE69164DA5" : "CoreAnimationDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CoreAnimationDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CoreAnimationDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Waynert86\/git_practice.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "827E1BC4561ED4CD2796542FABA243DDE493114B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Waynert86\/CoreAnimationDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F73DBDF5DFAD855D11F5431B4C54C6CE69164DA5"
+    }
+  ]
+}

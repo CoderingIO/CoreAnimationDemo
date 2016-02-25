@@ -12,9 +12,9 @@ class RotationViewController: TapToDismissViewController {
     
     override func goTouched(sender: UIButton) {
         
-        let rotateAnimation = CABasicAnimation(keyPath: "transfrorm.rotation")
+        let rotateAnimation = CABasicAnimation(keyPath: "transform.rotation")
         rotateAnimation.fromValue = 0.0
-        rotateAnimation.toValue = CGFloat(M_PI * 0.15)
+        rotateAnimation.toValue = CGFloat(M_PI * 3.2)
         rotateAnimation.duration = 1.0
         rotateAnimation.repeatCount = 2
         
@@ -22,7 +22,7 @@ class RotationViewController: TapToDismissViewController {
         rotateAnimation.removedOnCompletion = false
         rotateAnimation.fillMode = kCAFillModeForwards
         
-        aLayer.addAnimation(rotateAnimation, forKey: "transform.rotation")
+        aLayer.addAnimation(rotateAnimation, forKey: nil)
         
     }
 
